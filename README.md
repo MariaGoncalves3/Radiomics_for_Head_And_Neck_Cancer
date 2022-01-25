@@ -21,4 +21,4 @@ The main objective is to extract features from medical images that allow the ide
 # Materials and Methods
 ### Data and Pre-Processing
 
-For this study, a public dataset was used which is available on The Cancer Image Archive website . The information for patients with histologically proven head and neck cancer comes from four different institutions in Quebec: Centre Hospitalier de l’Université de Montréal (CHUM), Centre Hospitalier Universitaire de Sher-brooke (CHUS), Hôpital Général Juif (HGJ) and Hôpital Maisonneuve-Rosemont (HMR).
+For this study, a public dataset was used which is available on The Cancer Image Archive website (https://wiki.cancerimagingarchive.net/display/Public/Head-Neck-PET-CT). The information for patients with histologically proven head and neck cancer comes from four different institutions in Quebec: Centre Hospitalier de l’Université de Montréal (CHUM), Centre Hospitalier Universitaire de Sher-brooke (CHUS), Hôpital Général Juif (HGJ) and Hôpital Maisonneuve-Rosemont (HMR).
